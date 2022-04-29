@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/avinashsingh6641/React_food-ordering_app.git/static/css/main.341b5546.chunk.css",
+    "main.js": "/avinashsingh6641/React_food-ordering_app.git/static/js/main.1252abf8.chunk.js",
+    "main.js.map": "/avinashsingh6641/React_food-ordering_app.git/static/js/main.1252abf8.chunk.js.map",
+    "runtime-main.js": "/avinashsingh6641/React_food-ordering_app.git/static/js/runtime-main.846a424e.js",
+    "runtime-main.js.map": "/avinashsingh6641/React_food-ordering_app.git/static/js/runtime-main.846a424e.js.map",
+    "static/js/2.ff033d89.chunk.js": "/avinashsingh6641/React_food-ordering_app.git/static/js/2.ff033d89.chunk.js",
+    "static/js/2.ff033d89.chunk.js.map": "/avinashsingh6641/React_food-ordering_app.git/static/js/2.ff033d89.chunk.js.map",
+    "index.html": "/avinashsingh6641/React_food-ordering_app.git/index.html",
+    "static/css/main.341b5546.chunk.css.map": "/avinashsingh6641/React_food-ordering_app.git/static/css/main.341b5546.chunk.css.map",
+    "static/js/2.ff033d89.chunk.js.LICENSE.txt": "/avinashsingh6641/React_food-ordering_app.git/static/js/2.ff033d89.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/avinashsingh6641/React_food-ordering_app.git/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.846a424e.js",
+    "static/js/2.ff033d89.chunk.js",
+    "static/css/main.341b5546.chunk.css",
+    "static/js/main.1252abf8.chunk.js"
+  ]
+}
